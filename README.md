@@ -7,8 +7,4 @@ Modul 122 bei Herr Dummermuth, Skriptsprachen
 ![Lines of code](https://img.shields.io/tokei/lines/github/TD99/gibb-m122?label=Zeilen&style=for-the-badge)
 ![Header_img](.assets/img.jpg)
 
-## LB1 - PowerShell
-[Zum Projekt](LB1)
-
-## LB2 - Python
-[Zum Projekt](LB2)
+**Source-Code und Installer: Releases**
